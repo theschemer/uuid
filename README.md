@@ -1,4 +1,5 @@
 # (uuid)
+[![Build Status](https://travis-ci.org/weinholt/uuid.svg?branch=master)](https://travis-ci.org/weinholt/uuid)
 
 The `(uuid)` library can generate and analyze UUIDs.
 
